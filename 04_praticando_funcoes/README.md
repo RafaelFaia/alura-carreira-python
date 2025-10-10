@@ -23,19 +23,18 @@ Durante este curso, foram explorados e praticados os seguintes conceitos:
 ---
 
 ## 🚀 Scripts / Exemplos
-- `calculadora_simples.py` — define funções para realizar operações básicas com parâmetros e retorno.  
-- `contagem_palavras_texto.py` — usa funções para processar strings e contar ocorrências de palavras.  
-- `filtrando_lista_lambda.py` — aplica `lambda` e funções de ordem superior (`filter`, `map`).  
-- `recursao_fatorial.py` — implementa cálculo de fatorial com recursão e condição de parada.  
-- `gerador_mensagens.py` — demonstra closures com funções internas acessando variáveis externas.  
-- `validador_senhas.py` — utiliza funções para validar regras de senha com condições e retornos booleanos.  
-- `estatisticas_notas.py` — funções para calcular médias, máximos e mínimos de uma lista de notas.  
-- `organizador_tarefas.py` — manipula listas e funções para organizar tarefas e priorizar itens.  
-- `simulador_pedidos.py` — usa funções e parâmetros para calcular valores e aplicar descontos.  
-- `ordenando_dados_lambda.py` — aplica `lambda` e `sorted()` para ordenar coleções dinamicamente.  
+- `calculadora_lambda.py` — Calculadora que usa `lambda`/funções para operações básicas.  
+- `calculando_idade.py` — Calcula a idade a partir do ano de nascimento.  
+- `calculando_total_vendas.py` — Calcula o total de vendas a partir de uma entrada de valores.  
+- `contador_caracteres.py` — Conta a quantidade de caracteres de uma palavra/string.  
+- `conversor_tipos_telefone.py` — Converte/normaliza formatos de telefone e tipos.  
+- `filtrando_numeros_pares.py` — Filtra números pares de uma coleção/lista.  
+- `gerador_funcoes_personalizadas.py` — Exemplo de gerador de funções / uso de closures.  
+- `juntando_listas_produtos.py` — Combina listas de produtos em uma estrutura unificada.  
+- `saudacao_personalizada.py` — Gera saudações personalizadas (por exemplo por horário ou nome).  
+- `somando_numeros_recursivamente.py` — Soma números recursivamente até um limite `n`.
 
 ---
 
 ## 📝 Observações
-- Estes exercícios exploram a criação e uso de **funções em Python**, desde o básico até conceitos mais avançados como recursão, funções anônimas e closures;  
-- Sinta-se livre para refatorar os exemplos, adicionar docstrings, modularizar o código e aplicar boas práticas como tipagem estática (`type hints`) e testes automatizados.
+- Estes exercícios exploram a criação e uso de **funções em Python**, desde o básico até conceitos mais avançados; sinta-se livre para refatorar e adicionar testes.  

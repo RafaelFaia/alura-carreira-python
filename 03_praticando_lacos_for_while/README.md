@@ -20,15 +20,16 @@ Durante este curso, foram explorados e praticados os seguintes conceitos:
 ---
 
 ## 🚀 Scripts / Exemplos
-- `buscando_produto_lista.py` — iteração sobre listas para localizar e validar elementos.  
-- `contagem_regressiva.py` — uso de `while` e controle de fluxo para contagens e intervalos.  
-- `gerenciando_tarefas.py` — manipulação de listas e repetição para adicionar/remover tarefas.  
-- `calculando_media_notas.py` — processamento de listas e repetição com controle de entradas.  
-- `validando_senhas.py` — repetição e condicionais para validar senhas até entrada correta.  
-- `somando_valores_lista.py` — iteração sobre coleções para somar e exibir resultados.  
+- `busca_livro_com_break.py` — percorre uma lista de livros e interrompe a busca com `break` ao encontrar o item.  
+- `calculando_soma_lista_valores.py` — soma valores em uma lista (acumulação) para obter totais.  
+- `contagem_regressiva_promocao.py` — realiza uma contagem regressiva exibindo mensagens em intervalos (ex.: timer/promocional).  
+- `controle_estoque_vendas.py` — gerencia estoque básico: decrementa quantidades e verifica disponibilidade em vendas.  
+- `exibindo_mensagem_varias_vezes.py` — repete a exibição de uma mensagem N vezes usando laços.  
+- `filtrando_livros_disponiveis.py` — filtra uma lista de livros por disponibilidade (uso de laços/condicionais ou comprehension).  
+- `organizando_portfolio_projetos.py` — organiza/exibe itens de um portfólio; demonstra ordenação e iteração de listas.  
+- `validacao_entrada_login.py` — valida entrada de usuário (login/senha) com repetições até obter dados válidos.
 
 ---
 
 ## 📝 Observações
-- Estes exercícios focam no uso de **laços de repetição (`for` e `while`)** e condicionais para criar programas dinâmicos e interativos;  
-- Sinta-se livre para refatorar os exemplos, adicionar funções, modularizar o código ou aplicar boas práticas como tratamento de exceções e validações adicionais.
+- Estes exercícios praticam os conceitos do curso; sinta-se livre para refatorar, modularizar e adicionar testes.

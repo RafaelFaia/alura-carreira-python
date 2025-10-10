@@ -23,16 +23,16 @@ Durante este curso, foram explorados e praticados os seguintes conceitos:
 ---
 
 ## 🚀 Scripts / Exemplos
-- `calculadora_tratamento_erros.py` — calculadora interativa com tratamento de erros para entradas inválidas.  
-- `calculando_gorjeta.py` — calcula gorjeta a partir do valor de conta e percentual escolhido.  
-- `contador_cedulas.py` — determina combinação de cédulas para entregar o valor solicitado (menor quantidade).  
-- `contagem_regressiva.py` — contagem regressiva com controle de tempo e exibição no terminal.  
-- `gerenciador_tarefas.py` — adiciona, remove e lista tarefas usando listas e comandos interativos.  
-- `lista_de_compras.py` — gerencia lista de compras com operações de adição, remoção e exibição.  
-- `palavras_longas.py` — encontra palavras acima de determinado tamanho em um texto.  
-- `pedra_papel_tesoura.py` — jogo interativo pedra, papel e tesoura contra o computador/usuário.  
-- `validando_cpf.py` — valida formato de CPF (11 dígitos) e verifica entradas inválidas.  
-- `verifica_media_e_situacao.py` — calcula média de notas e classifica situação do aluno (aprovado/reprovado).
+- `calculadora_tratamento_erros.py` — Calculadora com tratamento de erros para entradas inválidas.  
+- `calculando_gorjeta.py` — Calcula gorjeta a partir do valor da conta e percentual.  
+- `contador_cedulas.py` — Determina combinação de cédulas para representar um valor (menor quantidade).  
+- `contagem_vogais.py` — Conta vogais em um texto.  
+- `gerador_senha.py` — Gera senhas aleatórias conforme critérios (tamanho, caracteres).  
+- `gerenciador_tarefas.py` — Gerencia tarefas: adicionar, remover e listar itens.  
+- `jogo_adivinhar_numero.py` — Jogo interativo de adivinhar número com tentativas.  
+- `palavras_longas.py` — Encontra palavras com comprimento acima de um limite em um texto.  
+- `pedra_papel_tesoura.py` — Jogo interativo Pedra, Papel e Tesoura.  
+- `validando_cpf.py` — Valida formato de CPF (verificação básica de 11 dígitos).
 
 ---
 
